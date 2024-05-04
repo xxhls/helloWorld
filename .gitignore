@@ -5,3 +5,9 @@
 **/bin
 **/venv
 **/node_modules
+
+**/*.com
+**/*.~asm
+**/*.debug
+**/*.list
+**/*.symbol
